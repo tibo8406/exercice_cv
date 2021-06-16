@@ -24,8 +24,8 @@ body{
         background: url('img/fond.jpg');
 }
 img{
-        border: 3px coral solid;
-
+        border: 2px coral solid;
+        box-shadow: 6px 6px 6px grey;
 }
 .flottant{
         float: right;
