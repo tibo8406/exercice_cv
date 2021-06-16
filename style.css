@@ -1,5 +1,16 @@
+@font-face {
+        font-family: 'robotolight';
+        src: url('/font/Roboto-Light-webfont.eot');
+        src: url('/font/Roboto-Light-webfont.svg');
+        src: url('/font/Roboto-Light-webfont.ttf');
+        src: url('/font/Roboto-Light-webfont.woff');
+        font-weight: normal;
+        font-style: normal;
+    
+    }
 h1
 {
+        font-family: 'robotolight', Verdana, Geneva, Tahoma, sans-serif, serif, sans-serif;
         color: coral;
         text-align: center;
 }
@@ -9,5 +20,8 @@ h1 + p
 }
 
 body{
+        font-family: arial;
         background: url('img/fond.jpg');
 }
+
+    
