@@ -3,3 +3,11 @@ h1
         color: coral;
         text-align: center;
 }
+h1 + p
+{
+        text-align: center;
+}
+
+body{
+        background: url('img/fond.jpg');
+}
